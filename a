@@ -1,2 +1,7 @@
 hello dev1 edited this
+<<<<<<< HEAD
 agiain dev1 is modifying this file
+=======
+
+hello dev2 is modified this
+>>>>>>> master1
